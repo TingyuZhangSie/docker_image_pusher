@@ -1,3 +1,3 @@
-nginx
+mineVllm
 #支持私库
-rocm/pytorch:rocm6.0_ubuntu20.04_py3.9_pytorch_2.1.1
+rocm/pytorch:rocm6.1.2_ubuntu20.04_py3.9_pytorch_staging
